@@ -61,6 +61,3 @@ create user user@'localhost' identified by 'secretpassword';
 grant all privileges on project.* to user@'localhost';
 
 flush privileges;
-
-
-git clone https://christianflugod@bitbucket.org/roanalas/bisu_satisfaction_web.git
